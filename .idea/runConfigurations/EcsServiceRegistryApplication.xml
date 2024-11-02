@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EcsServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ecs-service-registry" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecs.ecs_service_registry.EcsServiceRegistryApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
